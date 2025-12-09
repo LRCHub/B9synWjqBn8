@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "FE!N",
+  "base_artist": "Travis Scott",
+  "createdAt": "2025-12-09T14:06:38.885429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FE!N",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/01_FE!N_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/02_FE!N_(feat._Playboi_Carti)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FE!N",
+      "artist": "Travis Scott feat. Playboi Carti",
+      "has_synced": true,
+      "path": "select/03_FE!N_Travis_Scott_feat._Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "FE!N",
+      "artist": "Travis Scott ft. Playboi Carti & Sheck Wes",
+      "has_synced": true,
+      "path": "select/04_FE!N_Travis_Scott_ft._Playboi_Carti_&_Sheck_Wes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott feat. Playboi Carti",
+      "has_synced": true,
+      "path": "select/05_FE!N_(feat._Playboi_Carti)_Travis_Scott_feat._Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott/Playboi Carti",
+      "has_synced": true,
+      "path": "select/06_FE!N_(feat._Playboi_Carti)_Travis_Scott_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fe! N",
+      "artist": "Travis Scott feat. Playboi Carti & Sheck Wes",
+      "has_synced": true,
+      "path": "select/07_Fe!_N_Travis_Scott_feat._Playboi_Carti_&_Sheck_Wes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FE!N",
+      "artist": "Travis Scott, Playboi Carti",
+      "has_synced": true,
+      "path": "select/08_FE!N_Travis_Scott,_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fe!n (feat. Playboi Carti & Sheck Wes)",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/09_Fe!n_(feat._Playboi_Carti_&_Sheck_Wes)_Travis_Scott.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FE!N",
+      "artist": "Travis Scott Ft. Playboi Carti",
+      "has_synced": true,
+      "path": "select/10_FE!N_Travis_Scott_Ft._Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FE!N (Official Audio)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/11_FE!N_(Official_Audio)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FE!N feat. Playboy Carti",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/12_FE!N_feat._Playboy_Carti_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Travis Scott - FE!N (Official Audio) ft. Playboi Carti",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/13_Travis_Scott_-_FE!N_(Official_Audio)_ft._Playboi_Carti_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/14_FE!N_(feat._Playboi_Carti)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/15_FE!N_(feat._Playboi_Carti)_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "FE!N",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/16_FE!N_Travis_Scott.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "FE!N (feat. Playboi Carti)",
+      "artist": "TravisScottVEVO",
+      "has_synced": true,
+      "path": "select/17_FE!N_(feat._Playboi_Carti)_TravisScottVEVO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "sTravis Scott - FE!N (Official Audio) ft. Playboi Carti",
+      "artist": "Travis Scott",
+      "has_synced": true,
+      "path": "select/18_sTravis_Scott_-_FE!N_(Official_Audio)_ft._Playboi_Carti_Travis_Scott.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FE!N",
+      "artist": "Travis Scott",
+      "has_synced": false,
+      "path": "select/pl_01_FE!N_Travis_Scott.txt"
+    }
+  ]
+}
