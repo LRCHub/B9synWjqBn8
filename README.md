@@ -1,74 +1,75 @@
-# Travis Scott – FE!N
+# Travis Scott – FE!N（feat. Playboi Carti）
 
 > **歌詞登録ステータス：同期歌詞あり**
 
 ```lrc
-[00:09.48] Just come outside, for the night (yeah)
-[00:12.63] Take your time, get your light (yeah)
-[00:15.88] Shawty giant, huh-uh
-[00:18.95] I been out geekin'
-[00:22.23] Bitch
-[00:24.73] 
-[00:22.77] Fien', fien', fien', fien'-fien' (yeah)
-[00:25.97] Fien', fien', fien', fien'-fien' (yeah)
-[00:29.25] Fien', fien', fien', fien'-fien'
-[00:32.46] Fien', fien' (yeah), fien', fien', fien'
-[00:52.46] 
-[00:37.46] The career's more at stake when you in your prime at stake)
-[00:41.05] Fuck that paper, baby, my face on the dotted line (dot, yeah)
-[00:44.26] I been flyin' out of town for some peace of mind (yeah, yeah, bitch)
-[00:47.32] It's like always they just want a piece of mine (ah)
-[00:50.69] I been focused on the future, never on right now (ah)
-[00:54.03] But I'm sippin', not kombucha, either pink or brown (it's lit)
-[00:57.35] I'm the one that introduced you to the you right now (mm, let's go)
-[01:01.34] Oh my God, that bitch bite (that bitch bite)
-[01:04.38] But alright (alright), tryna vibe (tryna vibe like this)
-[01:07.93] In the night, come alive
-[01:10.83] Ain't asleep, ain't a—, ain't a—, ain't-ain't-ain't—
-[01:36.83] 
-[01:14.94] Fien', fien', fien', fien'-fien'
-[01:18.10] Fien', fien', fien', fien'-fien'
-[01:21.18] Fien', fien', fien', fien'-fien'
-[01:24.47] Fien', fien', fien', fien'
-[01:27.32] Fien', fien', fien', fien'
-[01:40.32] 
-[01:32.33] Syrup, woah, what?
-[01:38.82] What?
-[01:41.91] (Homixide, Homixide, Homixide, Homixide) What?
-[01:44.69] (Yeah, woah, yeah, yeah)
-[01:47.51] (Homixide, Homixide, Homixide, Homixide, yeah)
-[01:49.73] (Yeah, hol' up, yeah)
-[02:00.23] 
-[01:51.07] Yeah, I just been poppin' my shit it's been gettin' live, hol' up (shit)
-[01:53.85] Yeah, you try to come 'round 'bout this shit, they poppin' ya tires, hol' up (shit)
-[01:57.12] Uh, hunnid round, woah, feel it, knock 'em on ten
-[02:00.82] Playin' both sides with these hoes (hol' up)
-[02:02.58] Shawty, I'm fuckin' yo' friends (hol' up)
-[02:03.99] I been goin' crazy, shawty, I been handlin' these bands
-[02:07.10] She not innocent, uh, shit, she tryna go—
-[02:27.60] 
-[02:09.84] Fien', fien' (yeah, talkin' 'bout), fien', fien'-fien' (syrup, oh-oh, what?)
-[02:13.06] Fien', fien', fien', fien'-fien' (syrup, oh-oh)
-[02:16.16] Fien', fien', fien', fien'-fien'-fien' (talkin' bout, talkin' 'bout, let's go)
-[02:55.16] 
-[02:19.59] I just been icin' my hoes
-[02:20.93] I just been drippin' my ho (drippin' my hoes)
-[02:22.69] This is a whole 'nother level, shorty (oh)
-[02:24.18] I got these hoes on they toes (hoes on they toes)
-[02:25.86] I put this bitch on the road
-[02:27.24] She tryna fuck on the O, hol' up, hol' up
-[02:29.14] I got this ho with me, she tryna show me sum', hol' up, hol' up
-[02:31.95] I got flows for days, these niggas ain't know nun', hol' up, hol' up
-[02:35.57] Me and my bro locked in, you know we on one, hol' up
-[02:38.75] We in the spot goin' crazy, until the sun up
-[02:42.19] You worried about that ho, that ho done chose us (slatt, bitch-ass)
-[02:45.18] Uh, pistols all in the kitchen, can't get it to cold, uh, hol' up, yeah (wow)
-[02:48.43] Fien', fien', fien' (Hol' up, hol' up, hol' up, hol' up, yeah)
-[02:51.96] Why the fuck these niggas actin' like they know us?
-[02:55.20] Double 0, Cactus, shit we towed up, this shit how we told 'em (skrrt, skrrt)
-[02:58.37] Switch out the bag, these niggas get rolled up (it's lit, hol' up, slatt)
-[03:01.78] Everything lit, hol' up, everything Homixide, Homixide (Homixide, Homixide, Homixide, Homixide)
-[03:49.28] 
-[03:04.91] Fien', fien', fien', fien'-fien'-fien'
-[03:08.17] (Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide)
+[00:09.14] Just come outside, for the night (yeah)
+[00:12.55] Take your time, get your light (yeah)
+[00:15.70] Johnny Dang, yeah, yeah
+[00:18.92] I been out geekin'
+[00:22.12] Bitch
+[00:24.62] 
+[00:22.65] FE!N, FE!N, FE!N, FE!N, FE!N (yeah)
+[00:25.72] FE!N, FE!N, FE!N, FE!N, FE!N (yeah)
+[00:29.16] FE!N, FE!N, FE!N, FE!N, FE!N
+[00:32.30] FE!N, FE!N (yeah), FE!N, FE!N, FE!N
+[00:49.80] 
+[00:37.59] The career's more at stake when you in your prime (at stake)
+[00:40.75] Fuck that paper, baby, my face on the dotted line (dot, yeah)
+[00:44.18] I been flyin' out of town for some peace of mind (yeah, yeah, bitch)
+[00:47.39] It's like always they just want a piece of mine (ah)
+[00:50.55] I been focused on the future, never on right now (ah)
+[00:53.94] But I'm sippin', not kombucha, either pink or brown (it's lit)
+[00:57.04] I'm the one that introduced you to the you right now (mm, let's go)
+[01:01.24] Oh my God, that bitch bite (that bitch bite)
+[01:04.34] But alright (alright), tryna vibe (tryna vibe this)
+[01:07.68] In the night, come alive
+[01:10.85] Ain't asleep, ain't a-, ain't a-, ain't-ain't
+[01:33.35] 
+[01:14.51] FE!N, FE!N, FE!N, FE!N, FE!N
+[01:17.78] FE!N, FE!N, FE!N, FE!N, FE!N
+[01:21.02] FE!N, FE!N, FE!N, FE!N, FE!N
+[01:24.12] FE!N, FE!N, FE!N, FE!N
+[01:27.34] FE!N, FE!N, FE!N, FE!N, FE!N
+[01:41.34] 
+[01:32.36] Syrup, woah, what?
+[01:38.67] What?
+[01:41.69] (Homixide, Homixide, Homixide, Homixide)
+[01:42.88] What? (Yeah)
+[01:46.32] Woah, woah (yeah, yeah)
+[01:47.42] (Homixide, Homixide, Homixide, Homixide)
+[01:48.98] Hit, yeah, hold up (yeah)
+[02:01.48] 
+[01:50.48] Yeah, I just been poppin' my shit and gettin' it live, hold up (shit)
+[01:53.80] Yeah, you try to come wrong 'bout this shit, we poppin' your tires, hold up (shit)
+[01:56.80] Uh, hundred round, woah, feelin' like I'm on ten
+[02:00.76] Playin' both sides with these hoes (hold up)
+[02:02.13] Shawty, I'm fuckin' your friend (hold up)
+[02:03.96] I've been goin' crazy, shawty, I've been in the deep end
+[02:07.12] She not innocent, uh, she just tryna go
+[02:26.62] 
+[02:09.55] FE!N (talkin' 'bout), FE!N, FE!N (yeah), FE!N, FE!N (Syrup, oh, oh, what? Syrup)
+[02:13.55] FE!N, FE!N (Syrup), FE!N, FE!N, FE!N (oh, oh)
+[02:16.08] FE!N, FE!N (talkin' bout), FE!N, FE!N, FE!N, FE!N (talkin' 'bout, let's go)
+[02:53.58] 
+[02:19.37] I just been icin' my hoes
+[02:20.96] I just been drippin' my hoes (drippin' my hoes)
+[02:22.57] This is a whole 'nother level, shorty (oh)
+[02:24.26] I got these hoes on they toes (hoes on they toes)
+[02:25.82] I put the bitch on the road, she tryna fuck on the O, hold up, hold up
+[02:29.11] I got this ho with me, she tryna show me somethin', hold up, hold up
+[02:32.25] I got flows for days, these niggas ain't know nothin', hold up, yeah
+[02:35.54] Me and my bro locked in, you know we on one, hold up (slatt, slatt)
+[02:38.88] We in the spot goin' crazy until the sun up
+[02:41.96] You worried about that ho, that ho done chose us (slatt, bitch-ass)
+[02:44.89] Uh, pistols all in the kitchen, can't give the zip code up, uh, hold up, yeah (wow)
+[03:26.39] 
+[02:48.52] FE!N, FE!N, FE!N (huh? Huh? Huh? Huh? Yeah)
+[02:51.78] Why the fuck these niggas actin' like they know us?
+[02:55.33] Double O, Cactus, yeah we towed up (skrrt, skrrt)
+[02:58.68] Switch out the bag, these niggas get rolled up, hold up (it's lit, slatt)
+[03:01.85] Everything hit, hold up, everything Homixide, Homixide (Homixide, Homixide, Homixide, Homixide)
+[03:49.35] 
+[03:04.93] FE!N, FE!N, FE!N, FE!N, FE!N, FE!N
+[03:08.27] (Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide)
 ```
